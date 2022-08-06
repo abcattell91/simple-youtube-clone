@@ -1,4 +1,26 @@
+# React Youtube Search and play clone
+This is a React YouTube Search App using the Youtube API.
 ![image](https://user-images.githubusercontent.com/94864528/183256101-ad0a803f-6c1b-4dfc-b60e-5764dba2c342.png)
+<br>
+<br>
+
+## Table of Contents
+- [General Info](#general-information)
+- [Setup](#setup)
+- [Project Status](#project-status)
+
+<!-- * [License](#license) -->
+
+## General Information
+
+- This is a Youtube Search website, written in React.
+- This allows you to search for anything hosted on YouTube and play it within the browser.
+- This project was completed to practice learning React and served as an opportunity to develop my skills in:
+
+* React
+
+
+## Setup
 
 
 # Getting Started with Create React App
@@ -71,3 +93,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Project Status
+
+Project is: Finished
